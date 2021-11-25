@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aisu-kurimu-dark-mode/static/css/main.8960f408.chunk.css",
+    "main.js": "/aisu-kurimu-dark-mode/static/js/main.f306807e.chunk.js",
+    "main.js.map": "/aisu-kurimu-dark-mode/static/js/main.f306807e.chunk.js.map",
+    "runtime-main.js": "/aisu-kurimu-dark-mode/static/js/runtime-main.906f5a5c.js",
+    "runtime-main.js.map": "/aisu-kurimu-dark-mode/static/js/runtime-main.906f5a5c.js.map",
+    "static/js/2.8a35c2bd.chunk.js": "/aisu-kurimu-dark-mode/static/js/2.8a35c2bd.chunk.js",
+    "static/js/2.8a35c2bd.chunk.js.map": "/aisu-kurimu-dark-mode/static/js/2.8a35c2bd.chunk.js.map",
+    "index.html": "/aisu-kurimu-dark-mode/index.html",
+    "static/css/main.8960f408.chunk.css.map": "/aisu-kurimu-dark-mode/static/css/main.8960f408.chunk.css.map",
+    "static/js/2.8a35c2bd.chunk.js.LICENSE.txt": "/aisu-kurimu-dark-mode/static/js/2.8a35c2bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.906f5a5c.js",
+    "static/js/2.8a35c2bd.chunk.js",
+    "static/css/main.8960f408.chunk.css",
+    "static/js/main.f306807e.chunk.js"
+  ]
+}
