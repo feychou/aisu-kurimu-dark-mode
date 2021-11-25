@@ -13,8 +13,7 @@ const StateContextProvider = ({ children }) => {
     const userPrefersDark =
       window.matchMedia &&
       window.matchMedia('(prefers-color-scheme: dark)').matches
-    if (new Date() > new Date(2021, 11, 1))
-      document.querySelector('body').style.opacity = Math.random()
+
     if (userPrefersDark) setDarkModeOn(true)
   }, [])
 
